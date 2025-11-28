@@ -4,4 +4,4 @@
 - Basic XOR transformation logic (safe simulation)
 - Windows API functions (FindFirstFile, FindNextFile, MessageBox)
 - File handling & directory enumeration
-- Malware workflow modeling
+- RANSOMWARE workflow modeling
