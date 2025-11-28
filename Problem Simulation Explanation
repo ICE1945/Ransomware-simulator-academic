@@ -1,0 +1,10 @@
+## 🧩 What This Project Simulates
+
+This project demonstrates the **behavior** of simple ransomware, including:
+
+- Scanning a directory
+- "Encrypting" files (simulated)
+- Renaming files to `.locked`
+- Blocking access with a warning popup
+
+It focuses on malware *behavior*, not malware *execution capability*.
