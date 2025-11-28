@@ -15,7 +15,7 @@ Only pseudo-code and structural explanations are provided.
 
 ---
 
-## 🎯 Project Goals
+## 🎯 Project Goals :
 
 - Understand how ransomware locates and processes files  
 - Study encryption concepts (XOR-based simulation)  
@@ -25,8 +25,18 @@ Only pseudo-code and structural explanations are provided.
 
 ---
 
-## 🧩 High-Level Architecture
+## 🧩 High-Level Architecture :
 
+
+[Target Folder]
+↓
+[File Scanner] → finds files
+↓
+[Encryption Simulator] → transforms content
+↓
+[File Renamer] → adds .locked extension
+↓
+[Access Blocker] → Shows "file encrypted" warning
 
 
 
