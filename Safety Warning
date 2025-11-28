@@ -1,0 +1,11 @@
+## ⚠️ Safety Warning
+
+This project is a **safe, controlled ransomware simulation** designed strictly for academic and cybersecurity learning purposes.
+
+- No harmful or deployable ransomware logic is included  
+- No real encryption is used  
+- No destructive behavior exists  
+- Safe pseudo-code replaces all malicious components  
+- Built and tested only in isolated, non-production environments  
+
+The purpose of this project is to understand malware behavior patterns so that stronger defensive architectures can be built.
