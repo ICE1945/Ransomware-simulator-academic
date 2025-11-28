@@ -1,0 +1,12 @@
+## 🎯 Learning Outcomes
+
+Through this academic ransomware simulation project, I gained hands-on experience in:
+
+- Understanding how ransomware locates and processes files
+- Learning the fundamentals of XOR-based encryption behavior (simulated safely)
+- Using Windows API functions for file operations
+- Renaming and manipulating files programmatically
+- Simulating malware warning messages and access restrictions
+- Structuring a malware-like workflow for defensive analysis
+- Improving my understanding of secure coding principles and safe testing practices
+- Strengthening my malware analysis and threat modeling mindset
