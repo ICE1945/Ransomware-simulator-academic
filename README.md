@@ -17,6 +17,13 @@ The high-level simulation flow of the ransomware simulator is documented here:
 
 
 
+## Source Code :
+
+The main implementation is available here:
+
+[Source Code](src/ransomware_simulator.c)
+
+
 
 ## Safety Notice :
 
