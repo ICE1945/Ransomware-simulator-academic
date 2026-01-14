@@ -8,6 +8,16 @@ It is designed strictly for learning and research, with all harmful logic remove
 
 
 
+
+🧩## Design Flow
+
+The high-level simulation flow of the ransomware simulator is documented here: 
+
+[Design Flow](DESIGN_FLOW.md)
+
+
+
+
 ## Safety Notice :
 
 This project is an educational simulation.
@@ -42,14 +52,6 @@ How Windows API functions can be used by malware
 How to safely test malware behavior in isolated environments
 
 How to develop secure coding habits
-
-
-
-🧩## Design Flow
-
-The high-level simulation flow of the ransomware simulator is documented here: 
-
-[Design Flow] 
 
     
 
