@@ -115,7 +115,7 @@ How to integrate security thinking into software design
 
 
 
-🔒 Access to Academic Code :
+Access to Academic Code :
 
 The actual academic implementation (with sensitive parts removed) is not included in this public repository to ensure safety and compliance.
 
