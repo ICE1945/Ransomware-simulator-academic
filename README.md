@@ -9,7 +9,7 @@ It is designed strictly for learning and research, with all harmful logic remove
 
 
 
-🧩 ## Design Flow
+## Design Flow :
 
 The high-level simulation flow of the ransomware simulator is documented here: 
 
