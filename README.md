@@ -45,25 +45,11 @@ How to develop secure coding habits
 
 
 
-🧩 High-Level Architecture :
+🧩## Design Flow
 
-[ Target Folder ]
-        │
-        ▼
-[ File Scanner ]
-    - Finds files
-        │
-        ▼
-[ Encryption Simulator ]
-    - Applies safe placeholder "encryption"
-        │
-        ▼
-[ File Renamer ]
-    - Adds .locked extension
-        │
-        ▼
-[ Access Blocker ]
-    - Displays "file encrypted" warning
+The high-level simulation flow of the ransomware simulator is documented here: 
+
+[Design Flow] 
 
     
 
@@ -83,7 +69,7 @@ Build better security controls and response plans
 
 
 
-🛠 Technologies Used :
+## 🛠 Technologies Used :
 
 C Programming (Windows environment)
 
