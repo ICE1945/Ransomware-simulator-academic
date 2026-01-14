@@ -109,7 +109,7 @@ The actual academic implementation (with sensitive parts removed) is not include
 
 For legitimate academic review, a redacted version can be shared privately upon request.
 
-📌 Disclaimer :
+## 📌 Disclaimer :
 
 This project is intended only for educational, ethical, and defensive cybersecurity purposes.
 It must not be used for harmful or malicious activities.
